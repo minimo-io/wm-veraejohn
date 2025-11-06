@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Este sitemap foi gerado dinamicamente em novembro 6, 2025 às 1:30 pm pelo All in One SEO v4.8.9, o plugin de SEO original para o WordPress. -->
+
+<?xml-stylesheet type="text/xsl" href="https://veraejohn.com.br/default-sitemap.xsl?sitemap=root"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<sitemap>
+		<loc><![CDATA[https://veraejohn.com.br/post-sitemap.xml]]></loc>
+		<lastmod><![CDATA[2024-09-12T14:24:38+00:00]]></lastmod>
+	</sitemap>
+	<sitemap>
+		<loc><![CDATA[https://veraejohn.com.br/page-sitemap.xml]]></loc>
+		<lastmod><![CDATA[2024-09-10T22:06:31+00:00]]></lastmod>
+	</sitemap>
+	<sitemap>
+		<loc><![CDATA[https://veraejohn.com.br/category-sitemap.xml]]></loc>
+		<lastmod><![CDATA[2024-09-12T14:24:38+00:00]]></lastmod>
+	</sitemap>
+</sitemapindex>

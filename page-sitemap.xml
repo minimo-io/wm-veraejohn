@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Este sitemap foi gerado dinamicamente em novembro 6, 2025 às 7:13 am pelo All in One SEO v4.8.9, o plugin de SEO original para o WordPress. -->
+
+<?xml-stylesheet type="text/xsl" href="https://veraejohn.com.br/default-sitemap.xsl?sitemap=page"?>
+<urlset
+	xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+	xmlns:xhtml="http://www.w3.org/1999/xhtml"
+	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+>
+	<url>
+		<loc><![CDATA[https://veraejohn.com.br/]]></loc>
+		<lastmod><![CDATA[2024-09-10T22:06:31+00:00]]></lastmod>
+		<changefreq><![CDATA[always]]></changefreq>
+		<priority><![CDATA[1]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://veraejohn.com.br/images/sites/12/2024/08/vj-hero-image-min.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://veraejohn.com.br/images/sites/12/2024/08/vj-hero-image-min.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://veraejohn.com.br/images/sites/12/2024/08/vj-jogos-section-min.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://veraejohn.com.br/images/sites/12/2024/08/vj-casinos-section-min.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://veraejohn.com.br/images/sites/12/2024/08/vj-footer-section-min.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://veraejohn.com.br/wp-content/uploads/angwp/items/27014/728x90_PT.gif]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://veraejohn.com.br/wp-content/uploads/angwp/items/34360/vbet728x90.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://veraejohn.com.br/images/banners/72d87098edff5ce8f0f474-728x90_Casino_BR.gif]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://veraejohn.com.br/images/banners/187689581455f509d531da-120x600_Casino_BR.gif]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://veraejohn.com.br/wp-content/uploads/angwp/items/34363/VBET 120X600.gif]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://veraejohn.com.br/wp-content/uploads/angwp/items/34372/120x600_PT.gif]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://veraejohn.com.br/wp-content/uploads/angwp/items/27017/300x250_PT.gif]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://veraejohn.com.br/images/banners/0379e3f625bd346582fc03-300x250_Casino_BR.gif]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://veraejohn.com.br/wp-content/uploads/angwp/items/34361/190083.png]]>			</image:loc>
+		</image:image>
+	</url>
+</urlset>

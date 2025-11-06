@@ -1,0 +1,31 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Crawl-delay: 10
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: Barkrowler
+Disallow: /
+
+User-agent: Googlebot
+Crawl-delay: 10
+
+User-agent: bingbot
+Crawl-delay: 10
+
+User-agent: YandexBot
+Crawl-delay: 10
+
+User-agent: Amazonbot
+Crawl-delay: 10
+
+User-agent: ClaudeBot
+Crawl-delay: 10
+
+Sitemap: https://veraejohn.com.br/sitemap.xml
+Sitemap: https://veraejohn.com.br/sitemap.rss
